@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(172, 151, 107);
+}
+
+#score_span{
+    font-size: 20px;
+    
+}
+#timer_span{
+    font-size: 20px;
+    float: right;
+    margin-right: 45px;
+}
+#my_sketch_drawn{
+    color: rgb(125, 202, 74);
+    font-size: 20px;
+    font-size:bold;
+}
